@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 ---
 
 <p align="center">
-  <img src="wallpp.png" alt="My Wallpaper" width="100%"/>
+  <img src="https://raw.githubusercontent.com/etherman-os/etherman-os/main/wallpp.png" alt="My Wallpaper" width="100%"/>
 </p>
 
 ---
